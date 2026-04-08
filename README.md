@@ -1,16 +1,85 @@
-## Hi there 👋
+<h1 align="center">Fala aí 👋, eu sou Gustavo Alves</h1>
 
-<!--
-**gustavogaldinojj/gustavogaldinojj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 Desenvolvedor Full-Stack em formação <br>
+🚀 Apaixonado por tecnologia, APIs e sistemas web <br>
+📍 Brasil
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+- 🎓 Estudante de Tecnologia / Sistemas
+- 💼 Buscando oportunidade como **Desenvolvedor Full-Stack Jr**
+- 🧠 Sempre aprendendo mais sobre desenvolvimento web, APIs e banco de dados
+- ⚡ Gosto de transformar ideias em sistemas funcionais
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### 💻 Front-end
+- HTML
+- CSS
+- JavaScript
+- Angular
+
+### ⚙️ Back-end
+- Java
+- Node.js (básico)
+- Python
+- PHP
+
+### 🗄️ Banco de Dados
+- MySQL
+- PostegreSql
+
+### 🧰 Ferramentas
+- Git & GitHub
+- VS Code
+- IntelliJ
+- PyCharm
+- Eclipse
+
+---
+
+## 📌 Projetos em destaque
+
+🔹 Sistema de Login  
+- Sistema completo com autenticação de usuários  
+- Controle de sessão e segurança básica  
+
+🔹 API REST  
+- Desenvolvimento de API com integração de dados  
+- Estrutura organizada e escalável
+
+🔹 Sistema de Biometria
+- Desenvolvimento de um sistema de login por biometria
+- Estrutura organizada, e controle de dados
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: https://www.linkedin.com/in/gustavo-alves-oliveira-58167a271/
+- 📧 Email: gustavogaldinojj@gmail.com
+
+---
+
+## 🚀 Objetivo
+
+Busco uma oportunidade na área de desenvolvimento para aplicar meus conhecimentos, evoluir como profissional e contribuir com soluções reais.
+
+---
+
+⭐ Se curtir algum projeto, deixa uma estrela!
