@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre mim
 
-- 🎓 Estudante de Tecnologia / Sistemas
+- 🎓 Estudante de Tecnologia / Ciência da Computação
 - 💼 Buscando oportunidade como **Desenvolvedor Full-Stack Jr**
 - 🧠 Sempre aprendendo mais sobre desenvolvimento web, APIs e banco de dados
 - ⚡ Gosto de transformar ideias em sistemas funcionais
